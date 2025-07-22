@@ -103,3 +103,4 @@ definitions:
         type: string
       age:
         type: integer
+
